@@ -1,2 +1,2 @@
 #!/bin/bash
-source venv/bin/activate
+source /home/ec2-user/venv/bin/activate
