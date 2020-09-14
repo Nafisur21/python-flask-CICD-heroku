@@ -14,5 +14,5 @@ or
 - python -m pytest tests
 
 ### Referance
-[Watch Tutorial Video Here](https://youtu.be/WTofttoD2xg)
+[Watch Tutorial Video Here](https://youtu.be/WTofttoD2xg)<br>
 https://github.com/nikhilkumarsingh/python-github-actions-example
